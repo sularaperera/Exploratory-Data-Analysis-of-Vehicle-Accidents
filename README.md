@@ -1,4 +1,5 @@
-# Exploratory-Data-Analysis-of-Vehicle-Accidents
+<img src=https://github.com/sularaperera/Exploratory-Data-Analysis-of-Vehicle-Accidents-SQL/blob/main/images/Exploratory%20Data%20Analysis%20of%20Vehicle%20Accident.png></img>
+<br></br>
 In this project, Microsoft SQL Server Management Studio is used to conduct exploratory data analysis of road accidents. This project, runs T-SQL queries ranging from simple to complex.
 
 <img src=https://github.com/sularaperera/Exploratory-Data-Analysis-of-Vehicle-Accidents/blob/main/screenshots/all_tabels.png></img>
