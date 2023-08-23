@@ -32,10 +32,10 @@ In this project, Microsoft SQL Server Management Studio is used to conduct explo
 
 <img src=https://github.com/sularaperera/Exploratory-Data-Analysis-of-Vehicle-Accidents/blob/main/screenshots/q7.png></img>
 
-[Click here to see the sql file](https://github.com/sularaperera/Exploratory-Data-Analysis-of-Vehicle-Accidents-SQL/blob/main/Accident%20Analysis.sql)
-
 <br>
 
 <img src=https://github.com/sularaperera/Exploratory-Data-Analysis-of-Vehicle-Accidents/blob/main/screenshots/q8.png></img>
 
 <br>
+
+[Click here to see SQL](https://github.com/sularaperera/Exploratory-Data-Analysis-of-Vehicle-Accidents-SQL/blob/main/Accident%20Analysis.sql)
